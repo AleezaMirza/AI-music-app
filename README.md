@@ -1,1 +1,1 @@
-# AI-music-app
+# AI_MUSIC_WEBAPP
